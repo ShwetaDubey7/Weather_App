@@ -32,7 +32,7 @@ os.environ["DISPLAY"] = "99:"
 weatherapp = tk.Tk()
 weatherapp.title("Weather Application")
 weatherapp.geometry("700x800")
-weatherapp.configure(bg="teal")
+weatherapp.configure(bg="lightblue")
 
 # FONT
 font1 = ("times",25,"bold")
